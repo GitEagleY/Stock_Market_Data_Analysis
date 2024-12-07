@@ -98,7 +98,7 @@ This will:
 Here are some examples of what you can do with the project:
 
 1. **Stock Price Trends**:
-   - See how the closing price of different stocks (e.g., AAPL, AMZN, TSLA) changes over time.
+   - See how the closing price of different stocks changes over time.
    - Compare the price movements of different stocks.
 
 2. **Volatility**:
@@ -112,8 +112,6 @@ Here are some examples of what you can do with the project:
 ---
 
 ## Skills Learned
-
-By completing this project, you will have gained the following skills:
 
 - **Data Cleaning and Processing**: Using `pandas` to handle raw stock data, clean it, and create meaningful columns like daily changes and volatility.
 - **Data Visualization**: Using **matplotlib** and **seaborn** to create various types of plots, including line plots and heatmaps.
