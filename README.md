@@ -14,9 +14,15 @@ The main goal of this project is to analyze stock price data, specifically:
 ---
 ## Idea implementaion
 
-[Coorrelation_Heatmap](Images/Coorrelation_Heatmap.png)
-[Stock_Price_Trends](Images/Stock_Price_Trends.png)
-[Stock_Price_Volatility](Images/Stock_Price_Volatility.png)
+### Stock price coorrelation heatmap:
+![Coorrelation_Heatmap](Images/Coorrelation_Heatmap.png)
+
+### Stock Price Trends:
+![Stock_Price_Trends](Images/Stock_Price_Trends.png)
+
+### Stock Price Volatility:
+![Stock_Price_Volatility](Images/Stock_Price_Volatility.png)
+
 ---
 ## Prerequisites
 
