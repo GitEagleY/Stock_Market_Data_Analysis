@@ -62,7 +62,7 @@ If you haven't already, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/GitEagleY/Stock_Market_Data_Analysis.git
-cd stock-market-data-analysis
+cd Stock_Market_Data_Analysis
 ```
 
 ### 2. Generate Raw and Processed Data
